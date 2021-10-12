@@ -32,3 +32,9 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/happy663/contributions.svg" />
   </a>
 </p>
+  
+  
+  
+  
+  [！[AnuragのGitHub統計]（https://github-readme-stats.vercel.app/api？username = ）]（https://github.com/anuraghazra/github-readme-stats）
+
