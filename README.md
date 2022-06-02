@@ -19,8 +19,6 @@
 </p>
 
 
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=happy663&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/happy663/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy663&layout=compact&theme=tokyonight)](https://github.com/happy663/)
-[![trophy](https://github-profile-trophy.vercel.app/?username=happy663)](https://github.com/happy663/github-profile-trophy)
+
 
 
