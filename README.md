@@ -19,12 +19,13 @@
 </p>
   
   
-  [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=happy663&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/happy663/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy663&layout=compact&theme=tokyonight)](https://github.com/happy663/)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happy663&theme=dracula)
-[![trophy](https://github-profile-trophy.vercel.app/?username=happy663)](https://github.com/happy663/github-profile-trophy)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=happy663&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/happy663/)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=happy663&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happy663&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=happy663&theme=tokyonight)](https://github.com/happy663/github-profile-trophy)
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=happy663&theme=tokyonight&utcOffset=8)
 
 
 
