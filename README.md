@@ -23,6 +23,8 @@
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy663&layout=compact&theme=tokyonight)](https://github.com/happy663/)
 [![trophy](https://github-profile-trophy.vercel.app/?username=happy663)](https://github.com/happy663/github-profile-trophy)
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happy663&theme=dracula
+
 
 
 
